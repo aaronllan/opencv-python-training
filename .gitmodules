@@ -1,0 +1,3 @@
+[submodule "opencv-python-training"]
+	path = opencv-python-training
+	url = https://github.com/aaronllan/opencv-python-training
